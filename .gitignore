@@ -1,0 +1,41 @@
+# Arduino
+*.hex
+*.elf
+*.map
+*.eep
+*.lss
+*.sym
+
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python (if used for analysis)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
