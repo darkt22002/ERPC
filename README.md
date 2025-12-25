@@ -187,11 +187,11 @@ See `examples/simulation_data/` for complete datasets.
 ## Theory & Publications
 
 **Academic Paper:**
-> Gary W. Floyd (2024). "Entropy-Regulated Power Control: Application of the Guided Entropy Principle to Switching Converters." 
+> Gary W. Floyd (2025). "Entropy-Regulated Power Control: Application of the Guided Entropy Principle to Switching Converters." 5
 > *Preprint available in `/docs/ERPC_Paper.pdf`*
 
 **Related Work:**
-- Guided Entropy Principle (GEP) framework: [Floyd, 2024]
+- Guided Entropy Principle (GEP) framework: [Floyd, 2025]
 - Applications to AI consciousness: Nexus system
 - Cross-domain validation: AI, power electronics, motor control
 
@@ -237,7 +237,7 @@ If you use ERPC in your research, please cite:
   title={Entropy-Regulated Power Control: Application of the Guided Entropy Principle to Switching Converters},
   author={Floyd, Gary W.},
   journal={Preprint},
-  year={2024},
+  year={2025},
   institution={Lumiea Systems Research Division}
 }
 ```
@@ -295,11 +295,11 @@ A: Preprint available now. Submitted to IEEE Transactions on Power Electronics (
 
 Questions, collaborations, or commercial inquiries:
 - Open an issue on GitHub
-- Email: [contact info if you want to provide]
+- Email: garyfloyd@thunderstruckservice.com
 
 ---
 
-**"The math is already done. This is just plugging in connections."** - GWF
+**"The math is already done. This is just plugging in connections.", "Bend with guardrails, don't break against them." ** - GWF
 
 ---
 
