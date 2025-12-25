@@ -1,0 +1,2279 @@
+========================================
+
+ERPC - Entropy-Regulated Power Control
+
+GEP Algorithm Active
+
+========================================
+
+Initialization complete.
+
+GEP Parameters:
+
+  Alpha (salience): 0.300
+
+  Beta (gradient): 0.500
+
+  Threshold: 0.500V
+
+Ready.
+
+
+
+Samples: 1 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 270 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 542 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 811 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 1083 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 1352 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 1624 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 1893 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 2164 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 2433 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 2705 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 2974 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 3245 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 3514 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 3786 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 4055 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 4326 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 4595 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 4867 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 5138 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 5410 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 5682 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 5930 | Vout: 8.938V | Iload: 0.000A | E: -3.9384 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.9384 | Gate: ON  | PWM: 128
+
+Samples: 6190 | Vout: 0.000V | Iload: 0.000A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 6446 | Vout: 0.716V | Iload: 0.000A | E: 4.2845 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.2845 | Gate: ON  | PWM: 128
+
+Samples: 6694 | Vout: 3.824V | Iload: 0.000A | E: 1.1760 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.1760 | Gate: ON  | PWM: 128
+
+Samples: 6941 | Vout: 4.493V | Iload: 0.000A | E: 0.5073 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.5073 | Gate: ON  | PWM: 128
+
+Samples: 7208 | Vout: 5.196V | Iload: 0.000A | E: -0.1965 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1965 | Gate: OFF | PWM: 0
+
+Samples: 7471 | Vout: 5.818V | Iload: 0.000A | E: -0.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8182 | Gate: ON  | PWM: 128
+
+Samples: 7714 | Vout: 5.818V | Iload: 0.000A | E: -0.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8182 | Gate: ON  | PWM: 128
+
+Samples: 7959 | Vout: 6.041V | Iload: 0.000A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 8203 | Vout: 6.041V | Iload: 0.000A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 8448 | Vout: 6.041V | Iload: 0.000A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 8692 | Vout: 6.041V | Iload: 0.000A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 8937 | Vout: 6.041V | Iload: 0.000A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 9181 | Vout: 6.041V | Iload: 0.000A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 9426 | Vout: 6.041V | Iload: 0.000A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 9667 | Vout: 6.041V | Iload: 0.982A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 9891 | Vout: 6.041V | Iload: 1.760A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 10114 | Vout: 6.041V | Iload: 1.906A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 10336 | Vout: 6.041V | Iload: 2.463A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 10559 | Vout: 6.041V | Iload: 2.669A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 10783 | Vout: 6.041V | Iload: 2.742A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 11006 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 11229 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 11451 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 11674 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 11897 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 12119 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 12342 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 12565 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 12789 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 13012 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 13235 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 13457 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 13680 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 13903 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 14127 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 14350 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 14573 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 14798 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 15022 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 15245 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 15468 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 15690 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 15913 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 16136 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 16360 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 16583 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 16806 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 17031 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 17256 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 17480 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 17703 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 17926 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 18151 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 18375 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 18598 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 18821 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 19046 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 19270 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 19491 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 19713 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 19936 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 20159 | Vout: 6.041V | Iload: 2.610A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 20383 | Vout: 5.642V | Iload: 2.610A | E: -0.6422 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.6422 | Gate: ON  | PWM: 128
+
+Samples: 20623 | Vout: 5.067V | Iload: 2.610A | E: -0.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.0674 | Gate: OFF | PWM: 0
+
+Samples: 20863 | Vout: 4.352V | Iload: 2.610A | E: 0.6481 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6481 | Gate: ON  | PWM: 128
+
+Samples: 21088 | Vout: 4.352V | Iload: 2.610A | E: 0.6481 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6481 | Gate: ON  | PWM: 128
+
+Samples: 21312 | Vout: 4.352V | Iload: 2.610A | E: 0.6481 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6481 | Gate: ON  | PWM: 128
+
+Samples: 21537 | Vout: 4.094V | Iload: 2.610A | E: 0.9062 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.9062 | Gate: ON  | PWM: 128
+
+Samples: 21762 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 21987 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 22213 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 22438 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 22663 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 22889 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 23114 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 23340 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 23565 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 23791 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 24016 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 24242 | Vout: 3.953V | Iload: 2.610A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 24467 | Vout: 3.953V | Iload: 2.463A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 24691 | Vout: 3.953V | Iload: 1.872A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 24915 | Vout: 3.953V | Iload: 1.872A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 25138 | Vout: 3.953V | Iload: 1.872A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 25362 | Vout: 3.953V | Iload: 1.852A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 25587 | Vout: 3.953V | Iload: 1.852A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 25811 | Vout: 3.953V | Iload: 1.833A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 26035 | Vout: 3.953V | Iload: 1.833A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 26259 | Vout: 3.953V | Iload: 1.833A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 26484 | Vout: 3.953V | Iload: 1.852A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 26708 | Vout: 3.953V | Iload: 2.317A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 26934 | Vout: 3.953V | Iload: 2.649A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 27158 | Vout: 3.953V | Iload: 3.167A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 27383 | Vout: 3.953V | Iload: 3.465A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 27608 | Vout: 3.953V | Iload: 3.465A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 27832 | Vout: 3.953V | Iload: 3.465A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 28057 | Vout: 3.953V | Iload: 3.612A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 28282 | Vout: 3.953V | Iload: 4.130A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 28508 | Vout: 3.953V | Iload: 4.130A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 28732 | Vout: 3.953V | Iload: 4.462A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 28957 | Vout: 3.953V | Iload: 4.609A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 29182 | Vout: 3.953V | Iload: 5.000A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 29429 | Vout: 3.953V | Iload: 0.000A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 29675 | Vout: 3.953V | Iload: 0.000A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 29921 | Vout: 3.953V | Iload: 0.000A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 30165 | Vout: 3.953V | Iload: 0.000A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 30412 | Vout: 3.953V | Iload: 0.000A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 30649 | Vout: 3.953V | Iload: 4.335A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 30873 | Vout: 3.953V | Iload: 3.832A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 31096 | Vout: 3.953V | Iload: 3.871A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 31321 | Vout: 3.953V | Iload: 4.316A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 31544 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 31769 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 31992 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 32217 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 32439 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 32664 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 32887 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 33112 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 33335 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 33560 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 33783 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 34008 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 34230 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 34455 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 34678 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 34903 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 35128 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 35353 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 35578 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 35803 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 36028 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 36253 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 36478 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 36703 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 36928 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 37153 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 37378 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 37603 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 37828 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 38053 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 38278 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 38503 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 38728 | Vout: 3.953V | Iload: 4.482A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 38959 | Vout: 4.528V | Iload: 4.482A | E: 0.4721 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4721 | Gate: OFF | PWM: 0
+
+Samples: 39184 | Vout: 3.601V | Iload: 4.482A | E: 1.3988 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3988 | Gate: ON  | PWM: 128
+
+Samples: 39408 | Vout: 2.979V | Iload: 4.482A | E: 2.0205 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.0205 | Gate: ON  | PWM: 128
+
+Samples: 39634 | Vout: 2.757V | Iload: 4.482A | E: 2.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2434 | Gate: ON  | PWM: 128
+
+Samples: 39860 | Vout: 2.757V | Iload: 4.482A | E: 2.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2434 | Gate: ON  | PWM: 128
+
+Samples: 40085 | Vout: 2.757V | Iload: 4.482A | E: 2.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2434 | Gate: ON  | PWM: 128
+
+Samples: 40311 | Vout: 2.757V | Iload: 4.482A | E: 2.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2434 | Gate: ON  | PWM: 128
+
+Samples: 40537 | Vout: 2.757V | Iload: 4.482A | E: 2.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2434 | Gate: ON  | PWM: 128
+
+Samples: 40763 | Vout: 2.757V | Iload: 4.482A | E: 2.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2434 | Gate: ON  | PWM: 128
+
+Samples: 40989 | Vout: 2.757V | Iload: 4.482A | E: 2.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2434 | Gate: ON  | PWM: 128
+
+Samples: 41215 | Vout: 2.182V | Iload: 4.482A | E: 2.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.8182 | Gate: ON  | PWM: 128
+
+Samples: 41441 | Vout: 2.182V | Iload: 4.482A | E: 2.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.8182 | Gate: ON  | PWM: 128
+
+Samples: 41667 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 41893 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 42119 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 42344 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 42570 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 42796 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 43022 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 43247 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 43471 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 43696 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 43920 | Vout: 2.088V | Iload: 4.482A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 44146 | Vout: 2.534V | Iload: 4.482A | E: 2.4663 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.4663 | Gate: ON  | PWM: 128
+
+Samples: 44369 | Vout: 3.026V | Iload: 4.482A | E: 1.9736 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.9736 | Gate: ON  | PWM: 128
+
+Samples: 44594 | Vout: 3.425V | Iload: 4.482A | E: 1.5748 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.5748 | Gate: ON  | PWM: 128
+
+Samples: 44816 | Vout: 3.601V | Iload: 4.482A | E: 1.3988 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3988 | Gate: ON  | PWM: 128
+
+Samples: 45040 | Vout: 3.683V | Iload: 4.482A | E: 1.3167 | A: 0.3680 | ∇S: 0.0821 | Corr: 1.0693 | ΔS: 1.4080 | Gate: ON  | PWM: 128
+
+Samples: 45262 | Vout: 4.176V | Iload: 4.482A | E: 0.8240 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.8240 | Gate: ON  | PWM: 128
+
+Samples: 45502 | Vout: 5.337V | Iload: 4.482A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 45743 | Vout: 5.337V | Iload: 4.482A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 45986 | Vout: 5.337V | Iload: 4.482A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 46228 | Vout: 5.419V | Iload: 4.482A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 46472 | Vout: 5.419V | Iload: 4.482A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 46697 | Vout: 6.405V | Iload: 4.482A | E: -1.4047 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4047 | Gate: ON  | PWM: 128
+
+Samples: 46919 | Vout: 6.710V | Iload: 4.482A | E: -1.7097 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.7097 | Gate: ON  | PWM: 128
+
+Samples: 47138 | Vout: 7.202V | Iload: 4.482A | E: -2.2023 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.2023 | Gate: ON  | PWM: 128
+
+Samples: 47361 | Vout: 7.284V | Iload: 4.482A | E: -2.2845 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.2845 | Gate: ON  | PWM: 128
+
+Samples: 47581 | Vout: 8.270V | Iload: 4.482A | E: -3.2698 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.2698 | Gate: ON  | PWM: 128
+
+Samples: 47803 | Vout: 8.938V | Iload: 4.482A | E: -3.9384 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.9384 | Gate: ON  | PWM: 128
+
+Samples: 48023 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 48246 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 48469 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 48692 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 48917 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 49140 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 49363 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 49586 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 49811 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 50034 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 50257 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 50482 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 50702 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 50925 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 51148 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 51371 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 51594 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 51817 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 52040 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 52263 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 52486 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 52709 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 52932 | Vout: 9.290V | Iload: 4.482A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 53154 | Vout: 9.114V | Iload: 4.482A | E: -4.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.1144 | Gate: ON  | PWM: 128
+
+Samples: 53376 | Vout: 7.472V | Iload: 4.482A | E: -2.4721 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.4721 | Gate: ON  | PWM: 128
+
+Samples: 53598 | Vout: 5.959V | Iload: 4.482A | E: -0.9589 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.9589 | Gate: ON  | PWM: 128
+
+Samples: 53830 | Vout: 5.243V | Iload: 4.482A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 54073 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 54317 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 54561 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 54805 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 55049 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 55293 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 55537 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 55781 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 56025 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 56269 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 56513 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 56757 | Vout: 4.974V | Iload: 4.482A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 57001 | Vout: 5.243V | Iload: 4.482A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 57244 | Vout: 5.337V | Iload: 4.482A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 57485 | Vout: 6.182V | Iload: 4.482A | E: -1.1818 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.1818 | Gate: ON  | PWM: 128
+
+Samples: 57707 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 57929 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 58151 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 58373 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 58595 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 58817 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 59039 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 59261 | Vout: 6.487V | Iload: 4.482A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 59485 | Vout: 5.959V | Iload: 4.482A | E: -0.9589 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.9589 | Gate: ON  | PWM: 128
+
+Samples: 59706 | Vout: 5.642V | Iload: 4.482A | E: -0.6422 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.6422 | Gate: ON  | PWM: 128
+
+Samples: 59928 | Vout: 5.513V | Iload: 4.482A | E: -0.5132 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5132 | Gate: ON  | PWM: 128
+
+Samples: 60150 | Vout: 5.513V | Iload: 4.482A | E: -0.5132 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5132 | Gate: ON  | PWM: 128
+
+Samples: 60378 | Vout: 5.419V | Iload: 4.482A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 60622 | Vout: 5.337V | Iload: 4.482A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 60865 | Vout: 5.337V | Iload: 4.482A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 61106 | Vout: 5.243V | Iload: 4.482A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 61349 | Vout: 5.243V | Iload: 4.482A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 61590 | Vout: 5.243V | Iload: 4.482A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 61833 | Vout: 5.466V | Iload: 4.482A | E: -0.4663 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4663 | Gate: OFF | PWM: 0
+
+Samples: 62058 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 62280 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 62499 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 62720 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 62940 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 63163 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 63382 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 63604 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 63823 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 64044 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 64263 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 64485 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 64704 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 64925 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 65145 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 65368 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 65587 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 65809 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 66028 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 66249 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 66471 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 66692 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 66914 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 67137 | Vout: 5.560V | Iload: 4.482A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 67359 | Vout: 5.560V | Iload: 2.942A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 67581 | Vout: 5.560V | Iload: 2.849A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 67802 | Vout: 5.560V | Iload: 2.849A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 68024 | Vout: 5.560V | Iload: 2.849A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 68245 | Vout: 5.560V | Iload: 2.849A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 68467 | Vout: 5.560V | Iload: 3.353A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 68689 | Vout: 5.560V | Iload: 3.817A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 68911 | Vout: 5.560V | Iload: 3.817A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 69134 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 69357 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 69582 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 69807 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 70030 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 70255 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 70477 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 70700 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 70921 | Vout: 5.560V | Iload: 3.851A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 71144 | Vout: 5.560V | Iload: 3.871A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 71368 | Vout: 5.560V | Iload: 3.905A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 71590 | Vout: 5.560V | Iload: 4.296A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 71811 | Vout: 5.560V | Iload: 4.335A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 72032 | Vout: 5.560V | Iload: 4.277A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 72255 | Vout: 5.560V | Iload: 3.832A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 72478 | Vout: 5.560V | Iload: 3.832A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 72702 | Vout: 5.560V | Iload: 3.832A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 72925 | Vout: 5.560V | Iload: 3.832A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 73148 | Vout: 5.560V | Iload: 3.832A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 73372 | Vout: 5.560V | Iload: 3.426A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 73591 | Vout: 5.560V | Iload: 3.426A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 73813 | Vout: 5.560V | Iload: 3.260A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 74035 | Vout: 5.560V | Iload: 3.240A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 74257 | Vout: 5.560V | Iload: 3.148A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 74480 | Vout: 5.560V | Iload: 3.035A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 74704 | Vout: 5.560V | Iload: 2.669A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 74926 | Vout: 5.560V | Iload: 2.630A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 75148 | Vout: 5.560V | Iload: 2.630A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 75370 | Vout: 5.560V | Iload: 2.576A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 75591 | Vout: 5.560V | Iload: 2.463A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 75812 | Vout: 5.560V | Iload: 2.463A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 76033 | Vout: 5.560V | Iload: 2.463A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 76254 | Vout: 5.560V | Iload: 2.463A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 76475 | Vout: 5.560V | Iload: 2.463A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 76696 | Vout: 5.560V | Iload: 2.424A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 76918 | Vout: 5.560V | Iload: 2.410A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 77139 | Vout: 5.560V | Iload: 2.258A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 77361 | Vout: 5.560V | Iload: 2.224A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 77584 | Vout: 5.560V | Iload: 2.185A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 77805 | Vout: 5.560V | Iload: 1.979A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 78027 | Vout: 5.560V | Iload: 1.979A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 78249 | Vout: 5.560V | Iload: 1.872A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 78471 | Vout: 5.560V | Iload: 1.799A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 78693 | Vout: 5.560V | Iload: 1.779A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 78915 | Vout: 5.560V | Iload: 1.779A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 79137 | Vout: 5.560V | Iload: 1.779A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 79359 | Vout: 5.560V | Iload: 1.779A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 79582 | Vout: 5.560V | Iload: 1.779A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 79806 | Vout: 5.560V | Iload: 1.779A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 80028 | Vout: 5.560V | Iload: 1.779A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 80250 | Vout: 5.560V | Iload: 1.799A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 80472 | Vout: 5.560V | Iload: 1.799A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 80694 | Vout: 5.560V | Iload: 2.278A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 80917 | Vout: 5.560V | Iload: 2.410A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 81139 | Vout: 5.560V | Iload: 2.761A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 81361 | Vout: 5.560V | Iload: 2.889A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 81585 | Vout: 5.560V | Iload: 3.167A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 81808 | Vout: 5.560V | Iload: 3.314A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 82030 | Vout: 5.560V | Iload: 3.465A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 82252 | Vout: 5.560V | Iload: 3.519A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 82475 | Vout: 5.560V | Iload: 3.573A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 82696 | Vout: 5.560V | Iload: 3.573A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 82918 | Vout: 5.560V | Iload: 3.573A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 83140 | Vout: 5.560V | Iload: 3.817A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 83362 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 83584 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 83807 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 84031 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 84253 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 84476 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 84700 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 84922 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 85145 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 85369 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 85591 | Vout: 5.560V | Iload: 3.891A | E: -0.5601 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5601 | Gate: ON  | PWM: 128
+
+Samples: 85814 | Vout: 8.000V | Iload: 3.891A | E: -3.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.0000 | Gate: ON  | PWM: 128
+
+Samples: 86036 | Vout: 8.000V | Iload: 3.891A | E: -3.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.0000 | Gate: ON  | PWM: 128
+
+Samples: 86260 | Vout: 8.528V | Iload: 3.891A | E: -3.5279 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.5279 | Gate: ON  | PWM: 128
+
+Samples: 86484 | Vout: 8.716V | Iload: 3.891A | E: -3.7155 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.7155 | Gate: ON  | PWM: 128
+
+Samples: 86707 | Vout: 8.891V | Iload: 3.891A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 86929 | Vout: 8.891V | Iload: 3.891A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 87151 | Vout: 8.891V | Iload: 3.891A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 87373 | Vout: 8.891V | Iload: 3.891A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 87596 | Vout: 8.891V | Iload: 3.891A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 87820 | Vout: 8.891V | Iload: 3.891A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 88042 | Vout: 8.891V | Iload: 3.891A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 88265 | Vout: 8.352V | Iload: 3.891A | E: -3.3519 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.3519 | Gate: ON  | PWM: 128
+
+Samples: 88490 | Vout: 7.378V | Iload: 3.891A | E: -2.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.3783 | Gate: ON  | PWM: 128
+
+Samples: 88712 | Vout: 7.378V | Iload: 3.891A | E: -2.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.3783 | Gate: ON  | PWM: 128
+
+Samples: 88935 | Vout: 6.804V | Iload: 3.891A | E: -1.8035 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.8035 | Gate: ON  | PWM: 128
+
+Samples: 89158 | Vout: 6.041V | Iload: 3.891A | E: -1.0411 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0411 | Gate: ON  | PWM: 128
+
+Samples: 89380 | Vout: 5.818V | Iload: 3.891A | E: -0.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8182 | Gate: ON  | PWM: 128
+
+Samples: 89603 | Vout: 5.818V | Iload: 3.891A | E: -0.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8182 | Gate: ON  | PWM: 128
+
+Samples: 89825 | Vout: 5.736V | Iload: 3.891A | E: -0.7361 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7361 | Gate: ON  | PWM: 128
+
+Samples: 90047 | Vout: 5.642V | Iload: 3.891A | E: -0.6422 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.6422 | Gate: ON  | PWM: 128
+
+Samples: 90279 | Vout: 5.466V | Iload: 3.891A | E: -0.4663 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4663 | Gate: OFF | PWM: 0
+
+Samples: 90525 | Vout: 5.466V | Iload: 3.891A | E: -0.4663 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4663 | Gate: OFF | PWM: 0
+
+Samples: 90769 | Vout: 5.196V | Iload: 3.891A | E: -0.1965 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1965 | Gate: OFF | PWM: 0
+
+Samples: 91013 | Vout: 5.067V | Iload: 3.891A | E: -0.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.0674 | Gate: OFF | PWM: 0
+
+Samples: 91258 | Vout: 4.317V | Iload: 3.891A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 91482 | Vout: 3.871V | Iload: 3.891A | E: 1.1290 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.1290 | Gate: ON  | PWM: 128
+
+Samples: 91707 | Vout: 3.554V | Iload: 3.891A | E: 1.4457 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.4457 | Gate: ON  | PWM: 128
+
+Samples: 91932 | Vout: 2.663V | Iload: 3.891A | E: 2.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.3372 | Gate: ON  | PWM: 128
+
+Samples: 92159 | Vout: 2.405V | Iload: 3.891A | E: 2.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.5953 | Gate: ON  | PWM: 128
+
+Samples: 92386 | Vout: 2.405V | Iload: 3.891A | E: 2.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.5953 | Gate: ON  | PWM: 128
+
+Samples: 92613 | Vout: 2.405V | Iload: 3.891A | E: 2.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.5953 | Gate: ON  | PWM: 128
+
+Samples: 92840 | Vout: 2.405V | Iload: 3.891A | E: 2.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.5953 | Gate: ON  | PWM: 128
+
+Samples: 93066 | Vout: 2.217V | Iload: 3.891A | E: 2.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.7830 | Gate: ON  | PWM: 128
+
+Samples: 93293 | Vout: 2.217V | Iload: 3.891A | E: 2.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.7830 | Gate: ON  | PWM: 128
+
+Samples: 93519 | Vout: 2.217V | Iload: 3.891A | E: 2.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.7830 | Gate: ON  | PWM: 128
+
+Samples: 93746 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 93973 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 94199 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 94426 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 94653 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 94879 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 95106 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 95333 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 95559 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 95786 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 96013 | Vout: 2.088V | Iload: 3.891A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 96239 | Vout: 2.088V | Iload: 3.685A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 96465 | Vout: 2.088V | Iload: 3.480A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 96691 | Vout: 2.088V | Iload: 3.094A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 96916 | Vout: 2.088V | Iload: 3.035A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 97142 | Vout: 2.088V | Iload: 3.035A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 97368 | Vout: 2.088V | Iload: 3.035A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 97593 | Vout: 2.088V | Iload: 3.260A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 97819 | Vout: 2.088V | Iload: 3.631A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 98045 | Vout: 2.088V | Iload: 3.832A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 98272 | Vout: 2.088V | Iload: 3.964A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 98496 | Vout: 2.088V | Iload: 4.130A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 98723 | Vout: 2.088V | Iload: 4.223A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 98946 | Vout: 2.088V | Iload: 4.443A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 99172 | Vout: 2.088V | Iload: 4.443A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 99396 | Vout: 2.088V | Iload: 4.594A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 99622 | Vout: 2.088V | Iload: 4.594A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 99846 | Vout: 2.088V | Iload: 4.594A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 100072 | Vout: 2.088V | Iload: 4.594A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 100296 | Vout: 2.088V | Iload: 4.594A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 100522 | Vout: 2.088V | Iload: 4.594A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 100745 | Vout: 2.088V | Iload: 3.724A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 100970 | Vout: 2.088V | Iload: 3.167A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 101194 | Vout: 2.088V | Iload: 2.796A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 101420 | Vout: 2.088V | Iload: 2.092A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 101643 | Vout: 2.088V | Iload: 1.852A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 101868 | Vout: 2.088V | Iload: 1.535A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 102091 | Vout: 2.088V | Iload: 1.500A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 102316 | Vout: 2.088V | Iload: 1.461A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 102540 | Vout: 2.088V | Iload: 1.334A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 102766 | Vout: 2.088V | Iload: 1.334A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 102990 | Vout: 2.088V | Iload: 1.334A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 103216 | Vout: 2.088V | Iload: 1.354A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 103442 | Vout: 2.088V | Iload: 1.481A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 103667 | Vout: 2.088V | Iload: 1.686A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 103892 | Vout: 2.088V | Iload: 1.799A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 104118 | Vout: 2.088V | Iload: 1.926A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 104344 | Vout: 2.088V | Iload: 2.151A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 104570 | Vout: 2.088V | Iload: 2.502A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 104796 | Vout: 2.088V | Iload: 2.556A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 105022 | Vout: 2.088V | Iload: 2.722A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 105248 | Vout: 2.088V | Iload: 2.722A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 105474 | Vout: 2.088V | Iload: 2.849A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 105700 | Vout: 2.088V | Iload: 2.849A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 105926 | Vout: 2.088V | Iload: 2.981A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 106152 | Vout: 2.088V | Iload: 3.113A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 106377 | Vout: 2.088V | Iload: 3.113A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 106602 | Vout: 2.088V | Iload: 3.113A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 106827 | Vout: 2.088V | Iload: 3.113A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 107053 | Vout: 2.088V | Iload: 3.113A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 107278 | Vout: 2.088V | Iload: 3.113A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 107503 | Vout: 2.088V | Iload: 3.113A | E: 2.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9120 | Gate: ON  | PWM: 128
+
+Samples: 107728 | Vout: 3.249V | Iload: 3.113A | E: 1.7507 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.7507 | Gate: ON  | PWM: 128
+
+Samples: 107952 | Vout: 5.161V | Iload: 3.113A | E: -0.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1613 | Gate: OFF | PWM: 0
+
+Samples: 108186 | Vout: 5.689V | Iload: 3.113A | E: -0.6891 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.6891 | Gate: ON  | PWM: 128
+
+Samples: 108408 | Vout: 6.487V | Iload: 3.113A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 108632 | Vout: 7.425V | Iload: 3.113A | E: -2.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.4252 | Gate: ON  | PWM: 128
+
+Samples: 108854 | Vout: 7.648V | Iload: 3.113A | E: -2.6481 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.6481 | Gate: ON  | PWM: 128
+
+Samples: 109076 | Vout: 8.047V | Iload: 3.113A | E: -3.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.0469 | Gate: ON  | PWM: 128
+
+Samples: 109296 | Vout: 8.047V | Iload: 3.113A | E: -3.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.0469 | Gate: ON  | PWM: 128
+
+Samples: 109517 | Vout: 8.845V | Iload: 3.113A | E: -3.8446 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8446 | Gate: ON  | PWM: 128
+
+Samples: 109738 | Vout: 8.891V | Iload: 3.113A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 109961 | Vout: 8.891V | Iload: 3.113A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 110184 | Vout: 8.891V | Iload: 3.113A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 110406 | Vout: 8.891V | Iload: 3.113A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 110627 | Vout: 8.891V | Iload: 3.113A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 110850 | Vout: 7.777V | Iload: 3.113A | E: -2.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.7771 | Gate: ON  | PWM: 128
+
+Samples: 111072 | Vout: 6.663V | Iload: 3.113A | E: -1.6628 | A: 1.6800 | ∇S: 0.5396 | Corr: 1.2342 | ΔS: -2.0522 | Gate: ON  | PWM: 128
+
+Samples: 111294 | Vout: 5.689V | Iload: 3.113A | E: -0.6891 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.6891 | Gate: ON  | PWM: 128
+
+Samples: 111533 | Vout: 4.622V | Iload: 3.113A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 111759 | Vout: 4.223V | Iload: 3.113A | E: 0.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.7771 | Gate: ON  | PWM: 128
+
+Samples: 111983 | Vout: 4.129V | Iload: 3.113A | E: 0.8710 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.8710 | Gate: ON  | PWM: 128
+
+Samples: 112206 | Vout: 4.000V | Iload: 3.113A | E: 1.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0000 | Gate: ON  | PWM: 128
+
+Samples: 112429 | Vout: 4.000V | Iload: 3.113A | E: 1.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0000 | Gate: ON  | PWM: 128
+
+Samples: 112652 | Vout: 4.000V | Iload: 3.113A | E: 1.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0000 | Gate: ON  | PWM: 128
+
+Samples: 112875 | Vout: 4.000V | Iload: 3.113A | E: 1.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0000 | Gate: ON  | PWM: 128
+
+Samples: 113098 | Vout: 4.094V | Iload: 3.113A | E: 0.9062 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.9062 | Gate: ON  | PWM: 128
+
+Samples: 113322 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 113545 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 113769 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 113992 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 114216 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 114439 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 114663 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 114886 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 115110 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 115333 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 115557 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 115780 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 116004 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 116227 | Vout: 4.317V | Iload: 3.113A | E: 0.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.6833 | Gate: ON  | PWM: 128
+
+Samples: 116451 | Vout: 4.223V | Iload: 3.113A | E: 0.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.7771 | Gate: ON  | PWM: 128
+
+Samples: 116674 | Vout: 3.953V | Iload: 3.113A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 116898 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 117123 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 117348 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 117573 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 117798 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 118022 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 118247 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 118470 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 118694 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 118917 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 119142 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 119364 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 119589 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 119812 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 120036 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 120259 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 120484 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 120706 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 120931 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 121153 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 121378 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 121601 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 121825 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 122048 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 122273 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 122495 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 122720 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 122943 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 123167 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 123392 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 123617 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 123842 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 124067 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 124291 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 124516 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 124741 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 124966 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 125191 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 125415 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 125640 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 125865 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 126090 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 126315 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 126539 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 126764 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 126989 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 127214 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 127439 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 127663 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 127888 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 128113 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 128338 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 128563 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 128787 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 129012 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 129237 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 129462 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 129687 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 129911 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 130136 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 130361 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 130586 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 130811 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 131035 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 131260 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 131485 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 131707 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 131932 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 132155 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 132380 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 132602 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 132827 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 133049 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 133274 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 133497 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 133721 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 133944 | Vout: 3.378V | Iload: 3.113A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 134169 | Vout: 2.710V | Iload: 3.113A | E: 2.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.2903 | Gate: ON  | PWM: 128
+
+Samples: 134392 | Vout: 1.290V | Iload: 3.113A | E: 3.7097 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.7097 | Gate: ON  | PWM: 128
+
+Samples: 134617 | Vout: 0.493V | Iload: 3.113A | E: 4.5073 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.5073 | Gate: ON  | PWM: 128
+
+Samples: 134848 | Vout: 0.000V | Iload: 3.113A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 135097 | Vout: 0.000V | Iload: 3.113A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 135343 | Vout: 0.000V | Iload: 3.113A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 135592 | Vout: 0.000V | Iload: 3.113A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 135825 | Vout: 1.196V | Iload: 3.113A | E: 3.8035 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.8035 | Gate: ON  | PWM: 128
+
+Samples: 136050 | Vout: 3.284V | Iload: 3.113A | E: 1.7155 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.7155 | Gate: ON  | PWM: 128
+
+Samples: 136272 | Vout: 4.129V | Iload: 3.113A | E: 0.8710 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.8710 | Gate: ON  | PWM: 128
+
+Samples: 136511 | Vout: 4.669V | Iload: 3.113A | E: 0.3314 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3314 | Gate: OFF | PWM: 0
+
+Samples: 136751 | Vout: 6.487V | Iload: 3.113A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 136975 | Vout: 6.663V | Iload: 3.113A | E: -1.6628 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.6628 | Gate: ON  | PWM: 128
+
+Samples: 137197 | Vout: 6.663V | Iload: 3.113A | E: -1.6628 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.6628 | Gate: ON  | PWM: 128
+
+Samples: 137419 | Vout: 6.311V | Iload: 3.113A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 137641 | Vout: 5.912V | Iload: 3.113A | E: -0.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.9120 | Gate: ON  | PWM: 128
+
+Samples: 137862 | Vout: 5.513V | Iload: 3.113A | E: -0.5132 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5132 | Gate: ON  | PWM: 128
+
+Samples: 138104 | Vout: 5.337V | Iload: 3.113A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 138348 | Vout: 5.243V | Iload: 3.113A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 138591 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 138834 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 139077 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 139320 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 139563 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 139806 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 140049 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 140292 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 140535 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 140778 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 141021 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 141264 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 141507 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 141750 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 141993 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 142236 | Vout: 4.974V | Iload: 3.113A | E: 0.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0264 | Gate: OFF | PWM: 0
+
+Samples: 142480 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 142724 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 142969 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 143213 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 143457 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 143701 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 143942 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 144164 | Vout: 6.487V | Iload: 3.113A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 144386 | Vout: 6.487V | Iload: 3.113A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 144608 | Vout: 6.487V | Iload: 3.113A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 144830 | Vout: 6.487V | Iload: 3.113A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 145054 | Vout: 6.311V | Iload: 3.113A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 145276 | Vout: 5.865V | Iload: 3.113A | E: -0.8651 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8651 | Gate: ON  | PWM: 128
+
+Samples: 145498 | Vout: 5.865V | Iload: 3.113A | E: -0.8651 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8651 | Gate: ON  | PWM: 128
+
+Samples: 145722 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 145945 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 146167 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 146389 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 146612 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 146834 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 147056 | Vout: 5.595V | Iload: 3.113A | E: -0.5953 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5953 | Gate: ON  | PWM: 128
+
+Samples: 147298 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 147542 | Vout: 5.372V | Iload: 3.113A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 147785 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 148028 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 148271 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 148514 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 148757 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 149000 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 149243 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 149486 | Vout: 5.114V | Iload: 3.113A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 149729 | Vout: 5.114V | Iload: 2.185A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 149972 | Vout: 5.114V | Iload: 2.038A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 150215 | Vout: 5.114V | Iload: 1.945A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 150458 | Vout: 5.114V | Iload: 1.945A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 150701 | Vout: 5.114V | Iload: 1.906A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 150945 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 151188 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 151431 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 151674 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 151917 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 152160 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 152403 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 152646 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 152889 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 153132 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 153375 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 153618 | Vout: 5.114V | Iload: 1.706A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 153861 | Vout: 5.114V | Iload: 1.408A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 154102 | Vout: 5.114V | Iload: 1.408A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 154345 | Vout: 5.114V | Iload: 1.408A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 154585 | Vout: 5.114V | Iload: 1.354A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 154828 | Vout: 5.114V | Iload: 1.261A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 155070 | Vout: 5.114V | Iload: 1.109A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 155315 | Vout: 5.114V | Iload: 1.036A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 155557 | Vout: 5.114V | Iload: 0.982A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 155800 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 156041 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 156284 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 156524 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 156767 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 157008 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 157251 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 157491 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 157734 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 157975 | Vout: 5.114V | Iload: 0.777A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 158219 | Vout: 5.114V | Iload: 1.056A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 158461 | Vout: 5.114V | Iload: 1.295A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 158704 | Vout: 5.114V | Iload: 1.500A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 158945 | Vout: 5.114V | Iload: 2.019A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 159188 | Vout: 5.114V | Iload: 2.239A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 159431 | Vout: 5.114V | Iload: 2.649A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 159674 | Vout: 5.114V | Iload: 2.869A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 159917 | Vout: 5.114V | Iload: 3.055A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 160160 | Vout: 5.114V | Iload: 3.612A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 160403 | Vout: 5.114V | Iload: 3.998A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 160646 | Vout: 5.114V | Iload: 4.242A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 160889 | Vout: 5.114V | Iload: 4.277A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 161132 | Vout: 5.114V | Iload: 4.335A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 161374 | Vout: 5.114V | Iload: 4.370A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 161617 | Vout: 5.114V | Iload: 4.462A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 161860 | Vout: 5.114V | Iload: 4.462A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 162103 | Vout: 5.114V | Iload: 4.629A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 162346 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 162589 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 162832 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 163075 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 163318 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 163561 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 163804 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 164047 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 164290 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 164519 | Vout: 6.311V | Iload: 4.648A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 164740 | Vout: 6.757V | Iload: 4.648A | E: -1.7566 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.7566 | Gate: ON  | PWM: 128
+
+Samples: 164963 | Vout: 7.249V | Iload: 4.648A | E: -2.2493 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.2493 | Gate: ON  | PWM: 128
+
+Samples: 165187 | Vout: 7.284V | Iload: 4.648A | E: -2.2845 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.2845 | Gate: ON  | PWM: 128
+
+Samples: 165409 | Vout: 7.284V | Iload: 4.648A | E: -2.2845 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.2845 | Gate: ON  | PWM: 128
+
+Samples: 165631 | Vout: 7.472V | Iload: 4.648A | E: -2.4721 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.4721 | Gate: ON  | PWM: 128
+
+Samples: 165854 | Vout: 7.906V | Iload: 4.648A | E: -2.9062 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.9062 | Gate: ON  | PWM: 128
+
+Samples: 166075 | Vout: 8.399V | Iload: 4.648A | E: -3.3988 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.3988 | Gate: ON  | PWM: 128
+
+Samples: 166296 | Vout: 8.575V | Iload: 4.648A | E: -3.5748 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.5748 | Gate: ON  | PWM: 128
+
+Samples: 166518 | Vout: 9.243V | Iload: 4.648A | E: -4.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2434 | Gate: ON  | PWM: 128
+
+Samples: 166741 | Vout: 9.243V | Iload: 4.648A | E: -4.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2434 | Gate: ON  | PWM: 128
+
+Samples: 166965 | Vout: 9.243V | Iload: 4.648A | E: -4.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2434 | Gate: ON  | PWM: 128
+
+Samples: 167188 | Vout: 9.243V | Iload: 4.648A | E: -4.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2434 | Gate: ON  | PWM: 128
+
+Samples: 167411 | Vout: 7.730V | Iload: 4.648A | E: -2.7302 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.7302 | Gate: ON  | PWM: 128
+
+Samples: 167639 | Vout: 5.243V | Iload: 4.648A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 167869 | Vout: 3.777V | Iload: 4.648A | E: 1.2229 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.2229 | Gate: ON  | PWM: 128
+
+Samples: 168093 | Vout: 3.378V | Iload: 4.648A | E: 1.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.6217 | Gate: ON  | PWM: 128
+
+Samples: 168317 | Vout: 3.062V | Iload: 4.648A | E: 1.9384 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.9384 | Gate: ON  | PWM: 128
+
+Samples: 168542 | Vout: 2.933V | Iload: 4.648A | E: 2.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.0674 | Gate: ON  | PWM: 128
+
+Samples: 168767 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 168993 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 169219 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 169444 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 169670 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 169895 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 170121 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 170347 | Vout: 0.974V | Iload: 4.648A | E: 4.0264 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.0264 | Gate: ON  | PWM: 128
+
+Samples: 170571 | Vout: 0.129V | Iload: 4.648A | E: 4.8710 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.8710 | Gate: ON  | PWM: 128
+
+Samples: 170795 | Vout: 0.047V | Iload: 4.648A | E: 4.9531 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.9531 | Gate: ON  | PWM: 128
+
+Samples: 171033 | Vout: 0.000V | Iload: 4.648A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 171282 | Vout: 0.000V | Iload: 4.648A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 171532 | Vout: 0.000V | Iload: 4.648A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 171781 | Vout: 0.000V | Iload: 4.648A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 172026 | Vout: 0.094V | Iload: 4.648A | E: 4.9062 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.9062 | Gate: ON  | PWM: 128
+
+Samples: 172248 | Vout: 1.196V | Iload: 4.648A | E: 3.8035 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.8035 | Gate: ON  | PWM: 128
+
+Samples: 172473 | Vout: 2.217V | Iload: 4.648A | E: 2.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.7830 | Gate: ON  | PWM: 128
+
+Samples: 172697 | Vout: 2.628V | Iload: 4.648A | E: 2.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.3724 | Gate: ON  | PWM: 128
+
+Samples: 172922 | Vout: 2.839V | Iload: 4.648A | E: 2.1613 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1613 | Gate: ON  | PWM: 128
+
+Samples: 173144 | Vout: 3.507V | Iload: 4.648A | E: 1.4927 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.4927 | Gate: ON  | PWM: 128
+
+Samples: 173368 | Vout: 4.270V | Iload: 4.648A | E: 0.7302 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.7302 | Gate: ON  | PWM: 128
+
+Samples: 173589 | Vout: 4.446V | Iload: 4.648A | E: 0.5543 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.5543 | Gate: ON  | PWM: 128
+
+Samples: 173832 | Vout: 4.751V | Iload: 4.648A | E: 0.2493 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.2493 | Gate: OFF | PWM: 0
+
+Samples: 174073 | Vout: 5.021V | Iload: 4.648A | E: -0.0205 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.0205 | Gate: OFF | PWM: 0
+
+Samples: 174316 | Vout: 5.114V | Iload: 4.648A | E: -0.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1144 | Gate: OFF | PWM: 0
+
+Samples: 174556 | Vout: 5.243V | Iload: 4.648A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 174798 | Vout: 5.243V | Iload: 4.648A | E: -0.2434 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.2434 | Gate: OFF | PWM: 0
+
+Samples: 175033 | Vout: 5.642V | Iload: 4.648A | E: -0.6422 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.6422 | Gate: ON  | PWM: 128
+
+Samples: 175257 | Vout: 5.783V | Iload: 4.648A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 175478 | Vout: 7.284V | Iload: 4.648A | E: -2.2845 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.2845 | Gate: ON  | PWM: 128
+
+Samples: 175700 | Vout: 8.528V | Iload: 4.648A | E: -3.5279 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.5279 | Gate: ON  | PWM: 128
+
+Samples: 175921 | Vout: 8.891V | Iload: 4.648A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 176144 | Vout: 8.891V | Iload: 4.648A | E: -3.8915 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.8915 | Gate: ON  | PWM: 128
+
+Samples: 176366 | Vout: 9.021V | Iload: 4.648A | E: -4.0205 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.0205 | Gate: ON  | PWM: 128
+
+Samples: 176590 | Vout: 9.513V | Iload: 4.648A | E: -4.5132 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.5132 | Gate: ON  | PWM: 128
+
+Samples: 176809 | Vout: 9.912V | Iload: 4.648A | E: -4.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.9120 | Gate: ON  | PWM: 128
+
+Samples: 177031 | Vout: 10.217V | Iload: 4.648A | E: -5.2170 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.2170 | Gate: ON  | PWM: 128
+
+Samples: 177252 | Vout: 10.311V | Iload: 4.648A | E: -5.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3109 | Gate: ON  | PWM: 128
+
+Samples: 177475 | Vout: 10.311V | Iload: 4.648A | E: -5.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3109 | Gate: ON  | PWM: 128
+
+Samples: 177696 | Vout: 10.311V | Iload: 4.648A | E: -5.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3109 | Gate: ON  | PWM: 128
+
+Samples: 177919 | Vout: 10.311V | Iload: 4.648A | E: -5.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3109 | Gate: ON  | PWM: 128
+
+Samples: 178140 | Vout: 10.311V | Iload: 4.648A | E: -5.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3109 | Gate: ON  | PWM: 128
+
+Samples: 178363 | Vout: 9.689V | Iload: 4.648A | E: -4.6891 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.6891 | Gate: ON  | PWM: 128
+
+Samples: 178582 | Vout: 7.155V | Iload: 4.648A | E: -2.1554 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.1554 | Gate: ON  | PWM: 128
+
+Samples: 178804 | Vout: 7.062V | Iload: 4.648A | E: -2.0616 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.0616 | Gate: ON  | PWM: 128
+
+Samples: 179024 | Vout: 6.217V | Iload: 4.648A | E: -1.2170 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.2170 | Gate: ON  | PWM: 128
+
+Samples: 179248 | Vout: 6.006V | Iload: 4.648A | E: -1.0059 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0059 | Gate: ON  | PWM: 128
+
+Samples: 179468 | Vout: 6.006V | Iload: 4.648A | E: -1.0059 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0059 | Gate: ON  | PWM: 128
+
+Samples: 179692 | Vout: 6.006V | Iload: 4.648A | E: -1.0059 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0059 | Gate: ON  | PWM: 128
+
+Samples: 179912 | Vout: 6.006V | Iload: 4.648A | E: -1.0059 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0059 | Gate: ON  | PWM: 128
+
+Samples: 180137 | Vout: 3.824V | Iload: 4.648A | E: 1.1760 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.1760 | Gate: ON  | PWM: 128
+
+Samples: 180359 | Vout: 3.554V | Iload: 4.648A | E: 1.4457 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.4457 | Gate: ON  | PWM: 128
+
+Samples: 180583 | Vout: 3.202V | Iload: 4.648A | E: 1.7977 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.7977 | Gate: ON  | PWM: 128
+
+Samples: 180805 | Vout: 2.933V | Iload: 4.648A | E: 2.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.0674 | Gate: ON  | PWM: 128
+
+Samples: 181031 | Vout: 2.534V | Iload: 4.648A | E: 2.4663 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.4663 | Gate: ON  | PWM: 128
+
+Samples: 181254 | Vout: 2.311V | Iload: 4.648A | E: 2.6891 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.6891 | Gate: ON  | PWM: 128
+
+Samples: 181479 | Vout: 1.818V | Iload: 4.648A | E: 3.1818 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.1818 | Gate: ON  | PWM: 128
+
+Samples: 181702 | Vout: 1.818V | Iload: 4.648A | E: 3.1818 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.1818 | Gate: ON  | PWM: 128
+
+Samples: 181928 | Vout: 2.534V | Iload: 4.648A | E: 2.4663 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.4663 | Gate: ON  | PWM: 128
+
+Samples: 182152 | Vout: 3.249V | Iload: 4.648A | E: 1.7507 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.7507 | Gate: ON  | PWM: 128
+
+Samples: 182376 | Vout: 3.824V | Iload: 4.648A | E: 1.1760 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.1760 | Gate: ON  | PWM: 128
+
+Samples: 182599 | Vout: 4.270V | Iload: 4.648A | E: 0.7302 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.7302 | Gate: ON  | PWM: 128
+
+Samples: 182834 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 183079 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 183324 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 183570 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 183815 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 184060 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 184305 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 184550 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 184795 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 185040 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 185285 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 185530 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 185776 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 186021 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 186266 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 186511 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 186756 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 187001 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 187246 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 187491 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 187736 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 187982 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 188227 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 188472 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 188717 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 188962 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 189207 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 189452 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 189697 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 189942 | Vout: 4.575V | Iload: 4.648A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 190188 | Vout: 4.575V | Iload: 4.428A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 190433 | Vout: 4.575V | Iload: 4.130A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 190679 | Vout: 4.575V | Iload: 3.148A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 190924 | Vout: 4.575V | Iload: 2.297A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 191169 | Vout: 4.575V | Iload: 2.297A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 191414 | Vout: 4.575V | Iload: 2.297A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 191656 | Vout: 4.575V | Iload: 2.297A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 191901 | Vout: 4.575V | Iload: 2.297A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 192143 | Vout: 4.575V | Iload: 2.297A | E: 0.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.4252 | Gate: OFF | PWM: 0
+
+Samples: 192379 | Vout: 5.513V | Iload: 2.297A | E: -0.5132 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.5132 | Gate: ON  | PWM: 128
+
+Samples: 192600 | Vout: 5.865V | Iload: 2.297A | E: -0.8651 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8651 | Gate: ON  | PWM: 128
+
+Samples: 192822 | Vout: 7.155V | Iload: 2.297A | E: -2.1554 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.1554 | Gate: ON  | PWM: 128
+
+Samples: 193044 | Vout: 7.648V | Iload: 2.297A | E: -2.6481 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.6481 | Gate: ON  | PWM: 128
+
+Samples: 193266 | Vout: 8.094V | Iload: 2.297A | E: -3.0938 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.0938 | Gate: ON  | PWM: 128
+
+Samples: 193486 | Vout: 8.352V | Iload: 2.297A | E: -3.3519 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.3519 | Gate: ON  | PWM: 128
+
+Samples: 193710 | Vout: 9.067V | Iload: 2.297A | E: -4.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.0674 | Gate: ON  | PWM: 128
+
+Samples: 193932 | Vout: 9.912V | Iload: 2.297A | E: -4.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.9120 | Gate: ON  | PWM: 128
+
+Samples: 194156 | Vout: 9.912V | Iload: 2.297A | E: -4.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.9120 | Gate: ON  | PWM: 128
+
+Samples: 194377 | Vout: 10.182V | Iload: 2.297A | E: -5.1818 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.1818 | Gate: ON  | PWM: 128
+
+Samples: 194598 | Vout: 10.182V | Iload: 2.297A | E: -5.1818 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.1818 | Gate: ON  | PWM: 128
+
+Samples: 194817 | Vout: 10.405V | Iload: 2.297A | E: -5.4047 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.4047 | Gate: ON  | PWM: 128
+
+Samples: 195039 | Vout: 10.628V | Iload: 2.297A | E: -5.6276 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6276 | Gate: ON  | PWM: 128
+
+Samples: 195260 | Vout: 10.663V | Iload: 2.297A | E: -5.6628 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6628 | Gate: ON  | PWM: 128
+
+Samples: 195484 | Vout: 10.663V | Iload: 2.297A | E: -5.6628 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6628 | Gate: ON  | PWM: 128
+
+Samples: 195705 | Vout: 10.710V | Iload: 2.297A | E: -5.7097 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.7097 | Gate: ON  | PWM: 128
+
+Samples: 195927 | Vout: 10.710V | Iload: 2.297A | E: -5.7097 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.7097 | Gate: ON  | PWM: 128
+
+Samples: 196146 | Vout: 10.804V | Iload: 2.297A | E: -5.8035 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.8035 | Gate: ON  | PWM: 128
+
+Samples: 196368 | Vout: 10.804V | Iload: 2.297A | E: -5.8035 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.8035 | Gate: ON  | PWM: 128
+
+Samples: 196589 | Vout: 10.804V | Iload: 2.297A | E: -5.8035 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.8035 | Gate: ON  | PWM: 128
+
+Samples: 196813 | Vout: 9.114V | Iload: 2.297A | E: -4.1144 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.1144 | Gate: ON  | PWM: 128
+
+Samples: 197034 | Vout: 7.871V | Iload: 2.297A | E: -2.8710 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.8710 | Gate: ON  | PWM: 128
+
+Samples: 197257 | Vout: 7.730V | Iload: 2.297A | E: -2.7302 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.7302 | Gate: ON  | PWM: 128
+
+Samples: 197477 | Vout: 7.109V | Iload: 2.297A | E: -2.1085 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.1085 | Gate: ON  | PWM: 128
+
+Samples: 197699 | Vout: 6.663V | Iload: 2.297A | E: -1.6628 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.6628 | Gate: ON  | PWM: 128
+
+Samples: 197920 | Vout: 6.487V | Iload: 2.297A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 198142 | Vout: 6.487V | Iload: 2.297A | E: -1.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.4868 | Gate: ON  | PWM: 128
+
+Samples: 198363 | Vout: 6.006V | Iload: 2.297A | E: -1.0059 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.0059 | Gate: ON  | PWM: 128
+
+Samples: 198585 | Vout: 5.818V | Iload: 2.297A | E: -0.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.8182 | Gate: ON  | PWM: 128
+
+Samples: 198806 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 199027 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 199246 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 199468 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 199689 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 199910 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 200129 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 200350 | Vout: 5.783V | Iload: 2.297A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 200569 | Vout: 5.783V | Iload: 2.483A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 200791 | Vout: 5.783V | Iload: 3.280A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 201010 | Vout: 5.783V | Iload: 3.426A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 201232 | Vout: 5.783V | Iload: 3.573A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 201452 | Vout: 5.783V | Iload: 3.573A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 201676 | Vout: 5.783V | Iload: 3.573A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 201897 | Vout: 5.783V | Iload: 3.573A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 202119 | Vout: 5.783V | Iload: 3.573A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 202341 | Vout: 5.783V | Iload: 3.573A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 202565 | Vout: 5.783V | Iload: 3.573A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 202786 | Vout: 5.783V | Iload: 3.539A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 203008 | Vout: 5.783V | Iload: 3.001A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 203230 | Vout: 5.783V | Iload: 2.649A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 203451 | Vout: 5.783V | Iload: 2.072A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 203673 | Vout: 5.783V | Iload: 1.906A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 203895 | Vout: 5.783V | Iload: 1.647A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 204117 | Vout: 5.783V | Iload: 1.447A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 204341 | Vout: 5.783V | Iload: 1.447A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 204564 | Vout: 5.783V | Iload: 1.447A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 204786 | Vout: 5.783V | Iload: 1.447A | E: -0.7830 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.7830 | Gate: ON  | PWM: 128
+
+Samples: 205010 | Vout: 3.554V | Iload: 1.447A | E: 1.4457 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.4457 | Gate: ON  | PWM: 128
+
+Samples: 205234 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 205459 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 205684 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 205908 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 206133 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 206358 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 206583 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 206807 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 207032 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 207257 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 207482 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 207706 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 207931 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 208156 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 208380 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 208605 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 208830 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 209055 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 209279 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 209504 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 209729 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 209954 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 210178 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 210403 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 210628 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 210852 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 211077 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 211302 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 211527 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 211751 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 211976 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 212201 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 212425 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 212650 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 212875 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 213100 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 213324 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 213549 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 213774 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 213999 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 214221 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 214446 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 214668 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 214893 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 215115 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 215340 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 215563 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 215787 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 216010 | Vout: 3.953V | Iload: 1.447A | E: 1.0469 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0469 | Gate: ON  | PWM: 128
+
+Samples: 216235 | Vout: 0.798V | Iload: 1.447A | E: 4.2023 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.2023 | Gate: ON  | PWM: 128
+
+Samples: 216470 | Vout: 5.372V | Iload: 1.447A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 216714 | Vout: 5.372V | Iload: 1.447A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 216956 | Vout: 5.372V | Iload: 1.447A | E: -0.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3724 | Gate: OFF | PWM: 0
+
+Samples: 217181 | Vout: 8.317V | Iload: 1.447A | E: -3.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.3167 | Gate: ON  | PWM: 128
+
+Samples: 217404 | Vout: 6.217V | Iload: 1.447A | E: -1.2170 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.2170 | Gate: ON  | PWM: 128
+
+Samples: 217630 | Vout: 6.217V | Iload: 1.447A | E: -1.2170 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.2170 | Gate: ON  | PWM: 128
+
+Samples: 217853 | Vout: 7.683V | Iload: 1.447A | E: -2.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.6833 | Gate: ON  | PWM: 128
+
+Samples: 218077 | Vout: 8.000V | Iload: 1.447A | E: -3.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.0000 | Gate: ON  | PWM: 128
+
+Samples: 218297 | Vout: 8.798V | Iload: 1.447A | E: -3.7977 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.7977 | Gate: ON  | PWM: 128
+
+Samples: 218521 | Vout: 9.912V | Iload: 1.447A | E: -4.9120 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.9120 | Gate: ON  | PWM: 128
+
+Samples: 218741 | Vout: 10.006V | Iload: 1.447A | E: -5.0059 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.0059 | Gate: ON  | PWM: 128
+
+Samples: 218963 | Vout: 10.534V | Iload: 1.447A | E: -5.5337 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.5337 | Gate: ON  | PWM: 128
+
+Samples: 219185 | Vout: 10.933V | Iload: 1.447A | E: -5.9326 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.9326 | Gate: ON  | PWM: 128
+
+Samples: 219409 | Vout: 11.507V | Iload: 1.447A | E: -6.5073 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.5073 | Gate: ON  | PWM: 128
+
+Samples: 219630 | Vout: 11.507V | Iload: 1.447A | E: -6.5073 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.5073 | Gate: ON  | PWM: 128
+
+Samples: 219855 | Vout: 11.507V | Iload: 1.447A | E: -6.5073 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.5073 | Gate: ON  | PWM: 128
+
+Samples: 220078 | Vout: 11.507V | Iload: 1.447A | E: -6.5073 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.5073 | Gate: ON  | PWM: 128
+
+Samples: 220303 | Vout: 11.507V | Iload: 1.447A | E: -6.5073 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.5073 | Gate: ON  | PWM: 128
+
+Samples: 220525 | Vout: 11.109V | Iload: 1.447A | E: -6.1085 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.1085 | Gate: ON  | PWM: 128
+
+Samples: 220748 | Vout: 6.581V | Iload: 1.447A | E: -1.5806 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.5806 | Gate: ON  | PWM: 128
+
+Samples: 220969 | Vout: 6.311V | Iload: 1.447A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 221192 | Vout: 6.311V | Iload: 1.447A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 221413 | Vout: 6.311V | Iload: 1.447A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 221636 | Vout: 6.311V | Iload: 1.447A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 221857 | Vout: 6.311V | Iload: 1.447A | E: -1.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.3109 | Gate: ON  | PWM: 128
+
+Samples: 222081 | Vout: 2.487V | Iload: 1.447A | E: 2.5132 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.5132 | Gate: ON  | PWM: 128
+
+Samples: 222305 | Vout: 3.202V | Iload: 1.447A | E: 1.7977 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.7977 | Gate: ON  | PWM: 128
+
+Samples: 222530 | Vout: 2.933V | Iload: 1.447A | E: 2.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.0674 | Gate: ON  | PWM: 128
+
+Samples: 222756 | Vout: 2.006V | Iload: 1.447A | E: 2.9941 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.9941 | Gate: ON  | PWM: 128
+
+Samples: 222982 | Vout: 0.317V | Iload: 1.447A | E: 4.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.6833 | Gate: ON  | PWM: 128
+
+Samples: 223207 | Vout: 0.223V | Iload: 1.447A | E: 4.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.7771 | Gate: ON  | PWM: 128
+
+Samples: 223432 | Vout: 0.223V | Iload: 1.447A | E: 4.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.7771 | Gate: ON  | PWM: 128
+
+Samples: 223657 | Vout: 0.223V | Iload: 1.447A | E: 4.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.7771 | Gate: ON  | PWM: 128
+
+Samples: 223882 | Vout: 0.223V | Iload: 1.447A | E: 4.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.7771 | Gate: ON  | PWM: 128
+
+Samples: 224106 | Vout: 0.223V | Iload: 1.447A | E: 4.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.7771 | Gate: ON  | PWM: 128
+
+Samples: 224331 | Vout: 0.223V | Iload: 1.447A | E: 4.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.7771 | Gate: ON  | PWM: 128
+
+Samples: 224557 | Vout: 1.783V | Iload: 1.447A | E: 3.2170 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.2170 | Gate: ON  | PWM: 128
+
+Samples: 224783 | Vout: 2.628V | Iload: 1.447A | E: 2.3724 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.3724 | Gate: ON  | PWM: 128
+
+Samples: 225008 | Vout: 3.472V | Iload: 1.447A | E: 1.5279 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.5279 | Gate: ON  | PWM: 128
+
+Samples: 225233 | Vout: 3.824V | Iload: 1.447A | E: 1.1760 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.1760 | Gate: ON  | PWM: 128
+
+Samples: 225469 | Vout: 5.067V | Iload: 1.447A | E: -0.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.0674 | Gate: OFF | PWM: 0
+
+Samples: 225692 | Vout: 5.689V | Iload: 1.447A | E: -0.6891 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.6891 | Gate: ON  | PWM: 128
+
+Samples: 225915 | Vout: 6.628V | Iload: 1.447A | E: -1.6276 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.6276 | Gate: ON  | PWM: 128
+
+Samples: 226138 | Vout: 7.155V | Iload: 1.447A | E: -2.1554 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.1554 | Gate: ON  | PWM: 128
+
+Samples: 226362 | Vout: 9.067V | Iload: 1.447A | E: -4.0674 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.0674 | Gate: ON  | PWM: 128
+
+Samples: 226584 | Vout: 10.217V | Iload: 1.447A | E: -5.2170 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.2170 | Gate: ON  | PWM: 128
+
+Samples: 226806 | Vout: 10.358V | Iload: 1.447A | E: -5.3578 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3578 | Gate: ON  | PWM: 128
+
+Samples: 227030 | Vout: 10.358V | Iload: 1.447A | E: -5.3578 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3578 | Gate: ON  | PWM: 128
+
+Samples: 227254 | Vout: 10.358V | Iload: 1.447A | E: -5.3578 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3578 | Gate: ON  | PWM: 128
+
+Samples: 227478 | Vout: 10.217V | Iload: 1.447A | E: -5.2170 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.2170 | Gate: ON  | PWM: 128
+
+Samples: 227700 | Vout: 9.021V | Iload: 1.447A | E: -4.0205 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.0205 | Gate: ON  | PWM: 128
+
+Samples: 227924 | Vout: 8.352V | Iload: 1.447A | E: -3.3519 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.3519 | Gate: ON  | PWM: 128
+
+Samples: 228145 | Vout: 5.419V | Iload: 1.447A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 228389 | Vout: 4.751V | Iload: 1.447A | E: 0.2493 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.2493 | Gate: OFF | PWM: 0
+
+Samples: 228616 | Vout: 3.601V | Iload: 1.447A | E: 1.3988 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3988 | Gate: ON  | PWM: 128
+
+Samples: 228841 | Vout: 3.601V | Iload: 1.447A | E: 1.3988 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3988 | Gate: ON  | PWM: 128
+
+Samples: 229066 | Vout: 3.601V | Iload: 1.447A | E: 1.3988 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3988 | Gate: ON  | PWM: 128
+
+Samples: 229291 | Vout: 3.601V | Iload: 1.447A | E: 1.3988 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3988 | Gate: ON  | PWM: 128
+
+Samples: 229516 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 229741 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 229966 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 230191 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 230416 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 230641 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 230866 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 231091 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 231316 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 231541 | Vout: 3.683V | Iload: 1.447A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 231766 | Vout: 3.683V | Iload: 2.576A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 231990 | Vout: 3.683V | Iload: 3.280A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 232215 | Vout: 3.683V | Iload: 3.519A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 232439 | Vout: 3.683V | Iload: 3.519A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 232663 | Vout: 3.683V | Iload: 3.519A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 232888 | Vout: 3.683V | Iload: 3.519A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 233112 | Vout: 3.683V | Iload: 3.519A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 233336 | Vout: 3.683V | Iload: 3.519A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 233560 | Vout: 3.683V | Iload: 4.223A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 233784 | Vout: 3.683V | Iload: 4.223A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 234008 | Vout: 3.683V | Iload: 4.223A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 234232 | Vout: 3.683V | Iload: 4.223A | E: 1.3167 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.3167 | Gate: ON  | PWM: 128
+
+Samples: 234461 | Vout: 5.196V | Iload: 4.223A | E: -0.1965 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.1965 | Gate: OFF | PWM: 0
+
+Samples: 234684 | Vout: 6.710V | Iload: 4.223A | E: -1.7097 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -1.7097 | Gate: ON  | PWM: 128
+
+Samples: 234908 | Vout: 7.155V | Iload: 4.223A | E: -2.1554 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.1554 | Gate: ON  | PWM: 128
+
+Samples: 235130 | Vout: 8.176V | Iload: 4.223A | E: -3.1760 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.1760 | Gate: ON  | PWM: 128
+
+Samples: 235352 | Vout: 8.446V | Iload: 4.223A | E: -3.4457 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.4457 | Gate: ON  | PWM: 128
+
+Samples: 235575 | Vout: 8.751V | Iload: 4.223A | E: -3.7507 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.7507 | Gate: ON  | PWM: 128
+
+Samples: 235798 | Vout: 9.290V | Iload: 4.223A | E: -4.2903 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -4.2903 | Gate: ON  | PWM: 128
+
+Samples: 236022 | Vout: 10.135V | Iload: 4.223A | E: -5.1349 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.1349 | Gate: ON  | PWM: 128
+
+Samples: 236246 | Vout: 10.264V | Iload: 4.223A | E: -5.2639 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.2639 | Gate: ON  | PWM: 128
+
+Samples: 236470 | Vout: 10.264V | Iload: 4.223A | E: -5.2639 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.2639 | Gate: ON  | PWM: 128
+
+Samples: 236693 | Vout: 10.311V | Iload: 4.223A | E: -5.3109 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.3109 | Gate: ON  | PWM: 128
+
+Samples: 236914 | Vout: 10.487V | Iload: 4.223A | E: -5.4868 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.4868 | Gate: ON  | PWM: 128
+
+Samples: 237136 | Vout: 10.581V | Iload: 4.223A | E: -5.5806 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.5806 | Gate: ON  | PWM: 128
+
+Samples: 237360 | Vout: 10.628V | Iload: 4.223A | E: -5.6276 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6276 | Gate: ON  | PWM: 128
+
+Samples: 237582 | Vout: 10.628V | Iload: 4.223A | E: -5.6276 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6276 | Gate: ON  | PWM: 128
+
+Samples: 237806 | Vout: 10.628V | Iload: 4.223A | E: -5.6276 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6276 | Gate: ON  | PWM: 128
+
+Samples: 238028 | Vout: 10.628V | Iload: 4.223A | E: -5.6276 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6276 | Gate: ON  | PWM: 128
+
+Samples: 238252 | Vout: 10.804V | Iload: 4.223A | E: -5.8035 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.8035 | Gate: ON  | PWM: 128
+
+Samples: 238473 | Vout: 10.839V | Iload: 4.223A | E: -5.8387 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.8387 | Gate: ON  | PWM: 128
+
+Samples: 238695 | Vout: 10.839V | Iload: 4.223A | E: -5.8387 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.8387 | Gate: ON  | PWM: 128
+
+Samples: 238916 | Vout: 10.839V | Iload: 4.223A | E: -5.8387 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.8387 | Gate: ON  | PWM: 128
+
+Samples: 239138 | Vout: 11.249V | Iload: 4.223A | E: -6.2493 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.2493 | Gate: ON  | PWM: 128
+
+Samples: 239360 | Vout: 11.472V | Iload: 4.223A | E: -6.4721 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.4721 | Gate: ON  | PWM: 128
+
+Samples: 239584 | Vout: 11.554V | Iload: 4.223A | E: -6.5543 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.5543 | Gate: ON  | PWM: 128
+
+Samples: 239806 | Vout: 11.683V | Iload: 4.223A | E: -6.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.6833 | Gate: ON  | PWM: 128
+
+Samples: 240030 | Vout: 11.777V | Iload: 4.223A | E: -6.7771 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.7771 | Gate: ON  | PWM: 128
+
+Samples: 240251 | Vout: 11.906V | Iload: 4.223A | E: -6.9062 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -6.9062 | Gate: ON  | PWM: 128
+
+Samples: 240475 | Vout: 12.000V | Iload: 4.223A | E: -7.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -7.0000 | Gate: ON  | PWM: 128
+
+Samples: 240695 | Vout: 12.000V | Iload: 4.223A | E: -7.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -7.0000 | Gate: ON  | PWM: 128
+
+Samples: 240918 | Vout: 12.000V | Iload: 4.223A | E: -7.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -7.0000 | Gate: ON  | PWM: 128
+
+Samples: 241140 | Vout: 12.000V | Iload: 4.223A | E: -7.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -7.0000 | Gate: ON  | PWM: 128
+
+Samples: 241362 | Vout: 10.628V | Iload: 4.223A | E: -5.6276 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -5.6276 | Gate: ON  | PWM: 128
+
+Samples: 241582 | Vout: 8.622V | Iload: 4.223A | E: -3.6217 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -3.6217 | Gate: ON  | PWM: 128
+
+Samples: 241806 | Vout: 7.425V | Iload: 4.223A | E: -2.4252 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -2.4252 | Gate: ON  | PWM: 128
+
+Samples: 242040 | Vout: 4.938V | Iload: 4.223A | E: 0.0616 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.0616 | Gate: OFF | PWM: 0
+
+Samples: 242284 | Vout: 4.845V | Iload: 4.223A | E: 0.1554 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.1554 | Gate: OFF | PWM: 0
+
+Samples: 242529 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 242774 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 243020 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 243265 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 243511 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 243756 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 244001 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 244247 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 244492 | Vout: 4.622V | Iload: 4.223A | E: 0.3783 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.3783 | Gate: OFF | PWM: 0
+
+Samples: 244725 | Vout: 3.906V | Iload: 4.223A | E: 1.0938 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0938 | Gate: ON  | PWM: 128
+
+Samples: 244951 | Vout: 2.182V | Iload: 4.223A | E: 2.8182 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.8182 | Gate: ON  | PWM: 128
+
+Samples: 245176 | Vout: 1.560V | Iload: 4.223A | E: 3.4399 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.4399 | Gate: ON  | PWM: 128
+
+Samples: 245402 | Vout: 1.243V | Iload: 4.223A | E: 3.7566 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.7566 | Gate: ON  | PWM: 128
+
+Samples: 245628 | Vout: 1.067V | Iload: 4.223A | E: 3.9326 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.9326 | Gate: ON  | PWM: 128
+
+Samples: 245853 | Vout: 0.716V | Iload: 4.223A | E: 4.2845 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.2845 | Gate: ON  | PWM: 128
+
+Samples: 246078 | Vout: 0.528V | Iload: 4.223A | E: 4.4721 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.4721 | Gate: ON  | PWM: 128
+
+Samples: 246303 | Vout: 0.317V | Iload: 4.223A | E: 4.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.6833 | Gate: ON  | PWM: 128
+
+Samples: 246527 | Vout: 0.317V | Iload: 4.223A | E: 4.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.6833 | Gate: ON  | PWM: 128
+
+Samples: 246752 | Vout: 0.317V | Iload: 4.223A | E: 4.6833 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 4.6833 | Gate: ON  | PWM: 128
+
+Samples: 246982 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 247232 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 247482 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 247732 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 247982 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 248232 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 248482 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 248732 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 248982 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 249232 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 249482 | Vout: 0.000V | Iload: 4.223A | E: 5.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 5.0000 | Gate: ON  | PWM: 128
+
+Samples: 249717 | Vout: 1.419V | Iload: 4.223A | E: 3.5806 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 3.5806 | Gate: ON  | PWM: 128
+
+Samples: 249943 | Vout: 2.804V | Iload: 4.223A | E: 2.1965 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 2.1965 | Gate: ON  | PWM: 128
+
+Samples: 250167 | Vout: 4.000V | Iload: 4.223A | E: 1.0000 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 1.0000 | Gate: ON  | PWM: 128
+
+Samples: 250391 | Vout: 4.446V | Iload: 4.223A | E: 0.5543 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: 0.5543 | Gate: ON  | PWM: 128
+
+Samples: 250632 | Vout: 5.337V | Iload: 4.223A | E: -0.3372 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.3372 | Gate: OFF | PWM: 0
+
+Samples: 250875 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 251119 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 251362 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 251605 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 251849 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 252092 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 252333 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 252576 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 252817 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 253061 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 253302 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 253545 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 253786 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 254029 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 254270 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 254513 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 254754 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 254998 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 255239 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 255482 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 255723 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 255966 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 256207 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 256450 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 256691 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 256935 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 257176 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 257419 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 257662 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 257906 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 258149 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+Samples: 258392 | Vout: 5.419V | Iload: 4.223A | E: -0.4194 | A: 0.0000 | ∇S: 0.0000 | Corr: 1.0000 | ΔS: -0.4194 | Gate: OFF | PWM: 0
+
+
